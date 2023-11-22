@@ -1,1 +1,2 @@
-# gitPractice
+# Git Practice
+Praneetha
